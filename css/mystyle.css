@@ -7,3 +7,9 @@ body {
   text-align: center;
   font-size: 36px;
 }
+
+/* for the slower spin of cog, modification for font-awesome*/
+.slow-spin {
+  -webkit-animation: fa-spin 6s infinite linear;
+  animation: fa-spin 6s infinite linear;
+}
