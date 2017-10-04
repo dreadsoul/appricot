@@ -6,6 +6,7 @@ body {
   font-family: 'Lato', sans-serif;
   text-align: center;
   font-size: 36px;
+  color: #9acd91
 }
 
 /* for the slower spin of cog, modification for font-awesome*/
@@ -13,3 +14,4 @@ body {
   -webkit-animation: fa-spin 6s infinite linear;
   animation: fa-spin 6s infinite linear;
 }
+
